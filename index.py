@@ -1,1 +1,1 @@
-print("Annjan/n21BCS7766")
+print("Annjan\n21BCS7766")
